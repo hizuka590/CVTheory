@@ -1,0 +1,15 @@
+
+.idea
+.ipynb_checkpoints
+*.jovianrc
+data/
+*.tgz
+*.tgz.gz
+*.zip
+*.pth
+*.ckpt
+samples/
+*.pth.tar
+.ipynb_checkpoints/
+corpora/
+
