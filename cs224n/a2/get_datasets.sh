@@ -1,4 +1,4 @@
-#!/bin/bash
+·#!/bin/bash
 
 DATASETS_DIR="utils/datasets"
 mkdir -p $DATASETS_DIR
